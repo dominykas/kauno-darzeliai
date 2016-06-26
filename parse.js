@@ -50,8 +50,26 @@ var parseDet = (win) => {
 	};
 };
 
-var parseEil = () => {
-	// todo
+var parseEil = (win) => {
+	var document = win.document;
+
+	assert(document.querySelectorAll('table').length === 1);
+	assert(document.querySelectorAll('th').length === 11);
+
+	var rows = Array.from(document.querySelectorAll('tr')).slice(1);
+	return rows.map((row) => {
+
+		var cells = row.querySelectorAll('td');
+		return {
+			reg: cells[2].textContent,
+			prio: cells[3].textContent,
+			gim: cells[6].textContent,
+			mm: cells[7].textContent,
+			start: cells[8].textContent,
+			metodika: cells[9].textContent,
+			statusas: cells[10].textContent
+		}
+	});
 };
 
 var parseGrp = () => {
