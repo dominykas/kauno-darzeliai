@@ -72,24 +72,79 @@ var parseEil = (win) => {
 	});
 };
 
-var parseGrp = () => {
-	// todo
+var parseGrp = (win, mm) => {
+	var document = win.document;
+
+	assert(document.querySelectorAll('th').length === 5);
+
+	var rows = Array.from(document.querySelectorAll('.darzeliai_table > tbody > tr'));
+	return rows.filter((r, i) => i % 2 === 0).map((row, i) => {
+
+		var cells1 = row.querySelectorAll('td');
+		assert(cells1.length === 5);
+
+		var cells2 = rows[i*2+1].querySelectorAll('.col-sm-6 td');
+		assert(cells2.length === 16);
+
+		assert(cells2[0].textContent === 'Pavadinimas');
+		assert(cells2[1].textContent === cells1[1].textContent);
+		assert(cells2[2].textContent === 'Auklėtojos');
+		assert(cells2[4].textContent === 'Metodika');
+		assert(cells2[6].textContent === 'Vietų sk. / Lankantys / Laukiantys');
+		var [vietos, lankantys, laukiantys] = cells2[7].textContent.split(" / ");
+		assert(vietos === cells1[2].textContent);
+		assert(vietos - lankantys <= +cells1[3].textContent);
+		assert(cells2[8].textContent === 'Amžiaus grupė');
+		assert(cells2[9].textContent === cells1[4].textContent);
+		assert(cells2[10].textContent === 'Paslaugų paskirtis');
+		assert(cells2[12].textContent === 'Darbo trukmė');
+		assert(cells2[14].textContent === 'Mokslo metai');
+		assert(cells2[15].textContent === mm);
+
+		var svcRows = rows[i*2+1].querySelectorAll('.col-sm-12 tr');
+		assert(svcRows.length === 1 || svcRows.length === 0);
+
+		return {
+			pavadinimas: cells1[1].textContent,
+			amzius: cells1[4].textContent,
+			aukletojos: cells2[3].textContent,
+			metodika: cells2[5].textContent,
+			paskirtis: cells2[11].textContent,
+			darbas: cells2[13].textContent,
+			vietos: +cells1[2].textContent,
+			laisvos: +cells1[3].textContent,
+			lankantys: +lankantys,
+			laukiantys: +laukiantys
+		}
+	});
 };
 
 var loadItem = function (item) {
-	return Promise.all([loadDom(`raw-data/${item}-det.html`), loadDom(`raw-data/${item}-eiles.html`), loadDom(`raw-data/${item}-grupes.html`)])
-		.then(([ det, eil, grp ]) => ({ id: item, det, eil, grp }));
+	var jsdomPromises = [
+		loadDom(`raw-data/${item}-det.html`),
+		loadDom(`raw-data/${item}-eiles.html`),
+		loadDom(`raw-data/${item}-grupes-15.html`),
+		loadDom(`raw-data/${item}-grupes-16.html`)
+	];
+	return Promise.all(jsdomPromises).then(([ det, eil, grp15, grp16 ]) => ({ id: item, det, eil, grp15, grp16 }));
 };
 
 var parseAll = (item) => {
 	return loadItem(item)
-		.then(({ id, det, eil, grp }) => {
+		.then(({ id, det, eil, grp15, grp16 }) => {
 			return {
 				id: item,
 				det: parseDet(det),
 				eil: parseEil(eil),
-				grp: parseGrp(grp)
+				grp: {
+					2015: parseGrp(grp15, "2015-2016"),
+					2016: parseGrp(grp16, "2016-2017")
+				}
 			}
+		})
+		.catch((err) => {
+			console.error(item);
+			throw err;
 		});
 };
 
