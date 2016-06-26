@@ -1,0 +1,23 @@
+{
+  "name": "kauno-darzeliai",
+  "version": "1.0.0",
+  "description": "http://www.kaunas.lt/svietimas/darzeliai in open format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykas/kauno-darzeliai.git"
+  },
+  "author": "Dominykas Blyžė <hello@dominykas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/kauno-darzeliai/issues"
+  },
+  "homepage": "https://github.com/dominykas/kauno-darzeliai#readme",
+  "dependencies": {
+    "promisify-es6": "1.x",
+    "request": "2.x"
+  }
+}
