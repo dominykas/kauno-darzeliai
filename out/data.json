@@ -1,0 +1,1980 @@
+[
+  {
+    "id": "51",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Aušrinė“",
+      "adresas": "Baltų pr. 49, LT-48233, Kaunas",
+      "vadovas": "Audronė Trumpickienė",
+      "telefonas": "(8 37) 37 75 28",
+      "faksas": "(8 37) 37 75 28",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ausrine.vpc@dokeda.lt",
+      "svetaine": "www.ausrine.lt",
+      "kodas": "191640865",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "98",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Vėrinėlis“",
+      "adresas": "Žiemgalių g. 1, LT-48222, Kaunas",
+      "vadovas": "Zita Jurgelevičienė",
+      "telefonas": "(37) 366599",
+      "faksas": "366599",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "verinelis.centras@gmail.com",
+      "svetaine": "",
+      "kodas": "191641248",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": []
+    }
+  },
+  {
+    "id": "16",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Atžalėlė“",
+      "adresas": "K. Donelaičio g. 9a, LT-44239, Kaunas",
+      "vadovas": "Jurgita Bušmanienė",
+      "telefonas": "(37) 209587",
+      "faksas": "(37) 209587",
+      "seniunija": "Centro seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelis@atzalele.kaunas.lm.lt",
+      "svetaine": "www.atzalele.kaunas.lm.lt",
+      "kodas": "191638070",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Valdorfo pedagogika"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "53",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Bitutė“",
+      "adresas": "Taikos pr. 10, LT-50191, Kaunas",
+      "vadovas": "Ritutė Širmulienė",
+      "telefonas": "(37) 732459",
+      "faksas": "(37) 732459",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldbitute@zebra.lt",
+      "svetaine": "www.bitute.kaunas.lm.lt",
+      "kodas": "191638451",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Boružėlė“ ",
+      "adresas": "Bitininkų g. 21, LT-46382, Kaunas",
+      "vadovas": "Birutė Jonaitienė",
+      "telefonas": "(37) 420165",
+      "faksas": "",
+      "seniunija": "Aleksoto seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldboruzele@gmail.com",
+      "svetaine": "www.ld-boruzele.lt",
+      "kodas": "195473374",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Daigelis“",
+      "adresas": "Žagarės g. 5, LT-47178, Kaunas",
+      "vadovas": "Laima Kanienė",
+      "telefonas": "(37) 266563",
+      "faksas": "(37) 266563",
+      "seniunija": "Vilijampolės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "lddaigelis@gmail.com",
+      "svetaine": "www.daigelis.mir.lt",
+      "kodas": "191637698",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Dobilėlis“",
+      "adresas": "Panerių g. 44, LT-48348, Kaunas",
+      "vadovas": "Ilona Sliesarčiukienė",
+      "telefonas": "(37) 363530",
+      "faksas": "",
+      "seniunija": "Vilijampolės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "dobilelis@mikrovisata.net",
+      "svetaine": "http://www.dobilelis.mir.lt",
+      "kodas": "191633333",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Drevinukas“",
+      "adresas": "R. Kalantos g. 116, LT-52347, Kaunas",
+      "vadovas": "Birutė Kriščiukaitienė",
+      "telefonas": "(37) 454063",
+      "faksas": "40 76 64",
+      "seniunija": "Petrašiūnų seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "drevinukas1@gmail.com",
+      "svetaine": "",
+      "kodas": "191634969",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "71",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Linelis“",
+      "adresas": "Savanorių pr. 236a, LT-50206, Kaunas",
+      "vadovas": "Rita Ramanauskienė",
+      "telefonas": "(37) 312335",
+      "faksas": "",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelis_linelis@inbox.lt",
+      "svetaine": "www.linelis.kaunas.lm.lt",
+      "kodas": "191638832",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "M. Montessori pedagoginė sistema"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Girinukas“",
+      "adresas": "Partizanų g. 52, LT-49446, Kaunas",
+      "vadovas": "Renata Drulienė",
+      "telefonas": "(8-37) 312 899",
+      "faksas": "(8-37) 312 936",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "girinukas@dokeda.lt",
+      "svetaine": "www.girinukas.kaunas.lm.lt",
+      "kodas": "191633529",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\"",
+        "M. Montessori pedagoginė sistema",
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Girstutis“",
+      "adresas": "Kovo 11-osios g. 25B, LT-51351, Kaunas",
+      "vadovas": "Vida Juškevičienė",
+      "telefonas": "(37) 454649",
+      "faksas": "(37) 454732",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "girstutis@takas.lt",
+      "svetaine": "www.girstutis.kaunas.lm.lt",
+      "kodas": "191642535",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "64",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Klausutis“",
+      "adresas": "Kovo 11-osios g. 14, LT-51380, Kaunas",
+      "vadovas": "Silvija Mickūnienė",
+      "telefonas": "(37) 45 43 09",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ld@klausutis.kaunas.lm.lt",
+      "svetaine": "www.klausutis.kaunas.lm.lt",
+      "kodas": "191638113",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "65",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Klumpelė“",
+      "adresas": "Pienių g. 14, LT-47457, Kaunas",
+      "vadovas": "Jolanta Bitvinskienė",
+      "telefonas": "(37) 377581, 488393",
+      "faksas": "(37) 377581",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "sargdarz@takas.lt",
+      "svetaine": "www.klumpele.lt",
+      "kodas": "191640299",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "68",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Kūlverstukas“",
+      "adresas": "Birželio 23-iosios g. 21, LT-50222, Kaunas",
+      "vadovas": "Renata Danaitienė",
+      "telefonas": "(37) 731732, 331661",
+      "faksas": "",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ld.kulverstukas@yahoo.com",
+      "svetaine": "www.kulverstukas.kaunas.lm.lt",
+      "kodas": "191633290",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "69",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Lakštutė“",
+      "adresas": "Parko g. 10, LT-52253, Kaunas",
+      "vadovas": "Vitalija Gečienė",
+      "telefonas": "(37) 373588",
+      "faksas": "",
+      "seniunija": "Petrašiūnų seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "dlakstute@yahoo.com",
+      "svetaine": "",
+      "kodas": "191641629",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "70",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Liepaitė“",
+      "adresas": "K. Genio g. 7, LT-50167, Kaunas",
+      "vadovas": "Rima Kalinauskienė",
+      "telefonas": "(37) 732376",
+      "faksas": "(37)732376",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "liepaitedarzelis@gmail.com",
+      "svetaine": "www.liepaite.lt",
+      "kodas": "191639553",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "73",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Mažylis“",
+      "adresas": "P. Plechavičiaus g. 13, LT-49257, Kaunas",
+      "vadovas": "Dalia Mazaliauskienė",
+      "telefonas": "(37) 386735",
+      "faksas": "(37) 406929",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelismazylis@takas.lt",
+      "svetaine": "",
+      "kodas": "191639934",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "74",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Naminukas“",
+      "adresas": "Ašigalio g. 39, LT-49447, Kaunas",
+      "vadovas": "Laimutė Marušauskienė",
+      "telefonas": "(37) 386608",
+      "faksas": "",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "naminukas1@takas.lt",
+      "svetaine": "",
+      "kodas": "191641586",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "77",
+    "det": {
+      "pavadinimas": "Kauno Panemunės lopšelis-darželis",
+      "adresas": "Vaidoto g. 26a, LT-45318, Kaunas",
+      "vadovas": "",
+      "telefonas": "(37) 345877",
+      "faksas": "",
+      "seniunija": "Panemunės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "panemunes28@gmail.com",
+      "svetaine": "",
+      "kodas": "291635680",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "78",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Pasaka“",
+      "adresas": "V. Krėvės pr. 63a, LT-50355, Kaunas",
+      "vadovas": "Gendrutė Lazdinienė",
+      "telefonas": "(37) 314107",
+      "faksas": "314107",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "pasaka.p@gmail.com",
+      "svetaine": "",
+      "kodas": "291634240",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "79",
+    "det": {
+      "pavadinimas": "Kauno sanatorinis lopšelis-darželis „Pienė“",
+      "adresas": "Birutės g. 9, LT-45319, Kaunas",
+      "vadovas": "Stasė Listopadskienė",
+      "telefonas": "(37) 345454",
+      "faksas": "345887",
+      "seniunija": "Panemunės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "info@piene.lt",
+      "svetaine": "",
+      "kodas": "191642154",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": []
+    }
+  },
+  {
+    "id": "80",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Pušaitė“",
+      "adresas": "Varnių g. 49, LT-48412, Kaunas",
+      "vadovas": "Irena Palukaitienė",
+      "telefonas": "(37) 363086, (37) 363142",
+      "faksas": "363086",
+      "seniunija": "Vilijampolės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldpusaite@yahoo.com",
+      "svetaine": "www.kaunopusaite.lt",
+      "kodas": "191637926",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "81",
+    "det": {
+      "pavadinimas": "Kauno sanatorinis lopšelis-darželis „Pušynėlis“",
+      "adresas": "Vaidoto g. 7a, LT-45388, Kaunas",
+      "vadovas": "Ilona Ališauskienė",
+      "telefonas": "(37) 345883",
+      "faksas": "",
+      "seniunija": "Panemunės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldpusynelis@gmail.com",
+      "svetaine": "",
+      "kodas": "191635875",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Ąžuoliukas“",
+      "adresas": "Margio g. 17, LT-44226, Kaunas",
+      "vadovas": "Rimutė Karpiejienė",
+      "telefonas": "(37) 423320",
+      "faksas": "",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "azuoliukas.kaunas@gmail.com",
+      "svetaine": "",
+      "kodas": "291642340",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "83",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Rasytė“",
+      "adresas": "Rasytės g. 5, LT-48128, Kaunas",
+      "vadovas": "Rita Vaškelienė",
+      "telefonas": "(37) 36 28 72, (37) 36 23 43",
+      "faksas": "(37) 36 28 72",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "rasytesdarzelis@gmail.com",
+      "svetaine": "www.kaunorasyte.lt",
+      "kodas": "191637011",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\"",
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": []
+    }
+  },
+  {
+    "id": "84",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Rokutis“",
+      "adresas": "Baltaragio g. 1, LT-46119, Kaunas",
+      "vadovas": "Ramutė Stanislovaitienė",
+      "telefonas": "(37) 436049",
+      "faksas": "(37) 545510",
+      "seniunija": "Panemunės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldrokutis@gmail.com",
+      "svetaine": "http://www.ldrokutis.lt/ ",
+      "kodas": "191097825",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "86",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Saulutė“",
+      "adresas": "V. Krėvės pr. 56, LT-50402, Kaunas",
+      "vadovas": "Vaida Noreikienė",
+      "telefonas": "(37) 312033, 312048",
+      "faksas": "",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "dmsaulute@takas.lt",
+      "svetaine": "www.kaunosaulute.lt",
+      "kodas": "191636258",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Valdorfo pedagogika"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "87",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Smalsutis“",
+      "adresas": "Taikos pr. 72, LT-51298, Kaunas",
+      "vadovas": "Danutė Jankūnienė",
+      "telefonas": "(37) 454620",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "smalsutis2@gmail.com",
+      "svetaine": "",
+      "kodas": "191642492",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Valdorfo pedagogika"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "85",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Sadutė“",
+      "adresas": "Partizanų g. 122, LT-50340, Kaunas",
+      "vadovas": "Dalia Žemonienė",
+      "telefonas": "(837) 312330",
+      "faksas": "8(37) 310 031",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "sadute@gmail.com",
+      "svetaine": "www.sadute.kaunas.lm.lt",
+      "kodas": "191634588",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "88",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Spindulėlis“",
+      "adresas": "Kalniečių g. 245a, LT-49339, Kaunas",
+      "vadovas": "Dalia Sinkevičienė",
+      "telefonas": "(37) 731694",
+      "faksas": "(37) 731694",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "spindulelis_kaunas@hotmail.com",
+      "svetaine": "www.spindulelis.com",
+      "kodas": "191642916",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "89",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Spindulys“",
+      "adresas": "Sukilėlių pr. 71, LT-49324, Kaunas",
+      "vadovas": "Violeta Bružienė",
+      "telefonas": "(37) 386773",
+      "faksas": "(37) 386737",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "dspindulys@takas.lt",
+      "svetaine": "www.kaunospindulys.lt",
+      "kodas": "191635537",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Spragtukas“",
+      "adresas": "Kęstučio g. 44a, LT-44308, Kaunas \n",
+      "vadovas": "Nijolė Ramutė Kožaniauskienė",
+      "telefonas": "(37) 425764",
+      "faksas": "(37) 422487",
+      "seniunija": "Centro seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelis@spragtukas.lt",
+      "svetaine": "www.spragtukas.lt",
+      "kodas": "191634773",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "90",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Svirnelis“",
+      "adresas": "S. Lozoraičio g. 24, LT-50136, Kaunas",
+      "vadovas": "Violeta Drenseikienė",
+      "telefonas": "(8 37) 31 17 35, 31 39 37",
+      "faksas": "(8 37) 31 17 35",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "svirnelisld@gmail.com",
+      "svetaine": "http://www.svirnelis.kaunas.lm.lt",
+      "kodas": "191638647",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "91",
+    "det": {
+      "pavadinimas": "Kauno Šančių lopšelis-darželis",
+      "adresas": "Miglovaros g. 14, LT-45293, Kaunas",
+      "vadovas": "Vida Zakarauskienė",
+      "telefonas": "(8 37) 34 15 06",
+      "faksas": "(8 37) 34 15 03",
+      "seniunija": "Šančių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "sanciudarzelis@gmail.com",
+      "svetaine": "www.sanciuld.kaunas.lm.lt",
+      "kodas": "191640484",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "92",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Šermukšnėlis“",
+      "adresas": "A. Ramanausko-Vanago g. 6, LT-49305, Kaunas",
+      "vadovas": "Aldona Leonavičienė",
+      "telefonas": "(37) 312015",
+      "faksas": "(37) 312015",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldsermuksnelis@zebra.lt",
+      "svetaine": "http://www.sermuksnelis.mir.lt/",
+      "kodas": "191643594",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "93",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Šilelis“",
+      "adresas": "R. Kalantos g. 118, LT-52346, Kaunas",
+      "vadovas": "Nijolė Juozaitytė",
+      "telefonas": "(37) 456733",
+      "faksas": "",
+      "seniunija": "Petrašiūnų seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "sileliskaunas@gmail.com",
+      "svetaine": "",
+      "kodas": "191636639",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "det": {
+      "pavadinimas": "Kauno Tirkiliškių lopšelis-darželis",
+      "adresas": "Tirkiliškių g. 47, LT-46458, Kaunas",
+      "vadovas": "Neringa Šeštokienė",
+      "telefonas": "(8 37) 392600",
+      "faksas": "",
+      "seniunija": "Aleksoto seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "tirkdarzelis@takas.lt",
+      "svetaine": "http://www.tirkiliskiudarzelis.lt",
+      "kodas": "191098012",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "96",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Vaikystė“",
+      "adresas": "Partizanų g. 42, LT-49484, Kaunas",
+      "vadovas": "Regina Beinorienė",
+      "telefonas": "(37) 311014",
+      "faksas": "311086",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "vaikyste@net.davgita.lt",
+      "svetaine": "www.vaikystesdarzelis.lt",
+      "kodas": "191633486",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "97",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Varpelis“",
+      "adresas": "S. Žukausko g. 17, LT-49311, Kaunas",
+      "vadovas": "Lidija Kasiulynienė",
+      "telefonas": "(37) 386702",
+      "faksas": "",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "varpelisld@gmail.com",
+      "svetaine": " ",
+      "kodas": "191636824",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "M. Montessori pedagoginė sistema"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "99",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Vilnelė“",
+      "adresas": "Vytenio g. 8, LT-48417, Kaunas",
+      "vadovas": "Virginija Vorobjovienė",
+      "telefonas": "(37) 363641",
+      "faksas": "363641",
+      "seniunija": "Vilijampolės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldvilnele@yahoo.com",
+      "svetaine": "",
+      "kodas": "191637883",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "101",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Vyturėlis“",
+      "adresas": "Kalniečių g. 214, LT-49409, Kaunas",
+      "vadovas": "Irena Verbavičienė",
+      "telefonas": "(37) 386742",
+      "faksas": "",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldv@vyturelis.kaunas.lm.lt",
+      "svetaine": "www.vytureliskaunas.lt",
+      "kodas": "191643256",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "102",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žara“",
+      "adresas": "Ašigalio g. 13, LT-49157, Kaunas",
+      "vadovas": "Silvinija Šinkūnienė",
+      "telefonas": "(8~37) 38 67 23; (8-609) 96168",
+      "faksas": "(8~37) 38 67 23",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "zara@takas.lt",
+      "svetaine": "www.zara.kaunas.lm.lt",
+      "kodas": "191641390",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "103",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Želmenėlis“",
+      "adresas": "V. Krėvės pr. 95, LT-50367, Kaunas",
+      "vadovas": "Lina Bagdanavičienė",
+      "telefonas": "(37) 312436",
+      "faksas": "",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldzelma@gmail.com",
+      "svetaine": "www.zelmenelis.lt",
+      "kodas": "191635918",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "104",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žemyna“",
+      "adresas": "Kalniečių g. 257, LT-49336, Kaunas",
+      "vadovas": "Živilė Dubinskienė",
+      "telefonas": "(37) 386763",
+      "faksas": "8 37 386763",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "zemyna@dokeda.lt",
+      "svetaine": "",
+      "kodas": "191633867",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\"",
+        "M. Montessori pedagoginė sistema"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "105",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Židinėlis“",
+      "adresas": "Pikulo g. 31, LT-48428, Kaunas",
+      "vadovas": "Ona Vitkauskienė",
+      "telefonas": "(8 37) 362960",
+      "faksas": "(8 37) 363044",
+      "seniunija": "Vilijampolės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "zidinelis@takas.lt",
+      "svetaine": "",
+      "kodas": "191637164",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "107",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žilvitis“",
+      "adresas": "Hipodromo g. 70, LT-45150, Kaunas",
+      "vadovas": "Zina Miciūnienė",
+      "telefonas": "(37) 341410",
+      "faksas": "341410",
+      "seniunija": "Šančių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ld-zilvitis.kaunas@centras.lt",
+      "svetaine": "www.zilvitis.kaunas.lm.lt",
+      "kodas": "191639215",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "100",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Volungėlė“",
+      "adresas": "Rietavo g. 20, LT-48256, Kaunas",
+      "vadovas": "Jūratė Talalienė",
+      "telefonas": "(37) 377602",
+      "faksas": "(37) 377602",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "volungele@mikrovisata.tv",
+      "svetaine": "www.volungele.kaunas.lm.lt",
+      "kodas": "291640670",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "109",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žuvintas“",
+      "adresas": "Žuvinto g. 8, LT-51420, Kaunas",
+      "vadovas": "Galina Charitonova",
+      "telefonas": "(37) 348385",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "zuvintodarzelis@gmail.com",
+      "svetaine": "",
+      "kodas": "191639368",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "110",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žvangutis“",
+      "adresas": "Šarkuvos g. 21, LT-48158, Kaunas",
+      "vadovas": "Rasa Šniaukienė",
+      "telefonas": "(37) 37 76 22",
+      "faksas": "(37) 37 76 31",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "zvangutis@dokeda.lt",
+      "svetaine": "www.zvangutis.lt",
+      "kodas": "191640527",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "det": {
+      "pavadinimas": "Kauno 6-asis lopšelis-darželis",
+      "adresas": "A. Mickevičiaus g. 54, LT-44244, Kaunas",
+      "vadovas": "Tatjana Repova",
+      "telefonas": "(37) 226577",
+      "faksas": "",
+      "seniunija": "Centro seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "6lopselis-darzelis@one.lt",
+      "svetaine": "www.6lopselis-darzelis.lt",
+      "kodas": "191633671",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "111",
+    "det": {
+      "pavadinimas": "Kauno Žaliakalnio lopšelis-darželis",
+      "adresas": "Savanorių pr. 179C, LT-50117, Kaunas",
+      "vadovas": "Ona Danutė Gricienė",
+      "telefonas": "8  (37)  334 005",
+      "faksas": "8  (37)  334 005",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "kaunozaliakalniold@zebra.lt",
+      "svetaine": "www.kaunozaliakalniold.lt",
+      "kodas": "291638790",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Klevelis“",
+      "adresas": "Griunvaldo g. 26a, LT-44330, Kaunas",
+      "vadovas": "Raimonda Rasa Rumšienė",
+      "telefonas": "(37) 424511 , (37) 422448",
+      "faksas": "(37) 422448",
+      "seniunija": "Centro seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "klevelis@gmail.com",
+      "svetaine": "www.klevelis.lt",
+      "kodas": "191642720",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "113",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Nežiniukas“",
+      "adresas": "Vakarų g. 14, LT-51307, Kaunas",
+      "vadovas": "Edita Gaižauskienė",
+      "telefonas": "(37) 733542",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelisneziniukas@takas.lt",
+      "svetaine": "",
+      "kodas": "191642873",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "118",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Šnekutis“",
+      "adresas": "Kariūnų pl. 7, LT-45432, Kaunas",
+      "vadovas": "Rasa Kilčiauskienė",
+      "telefonas": "(37) 345884",
+      "faksas": "",
+      "seniunija": "Panemunės seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelissnekutis@takas.lt",
+      "svetaine": "www.snekutis.kaunas.lm.lt",
+      "kodas": "191634435",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "76",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Pagrandukas“",
+      "adresas": "V. Krėvės pr. 58, LT-60459, Kaunas",
+      "vadovas": "Vida Bakutienė",
+      "telefonas": "(37) 314202",
+      "faksas": "314202",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelis@pagrandukas.kaunas.lm.lt",
+      "svetaine": "",
+      "kodas": "191636062",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Valdorfo pedagogika"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "82",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Radastėlė“",
+      "adresas": "Tvirtovės al. 86a, LT-50184, Kaunas",
+      "vadovas": "Elona Činikienė",
+      "telefonas": "(37) 730080",
+      "faksas": "",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldradastele@zebra.lt",
+      "svetaine": "www.radastele.kaunas.lm.lt",
+      "kodas": "191634620",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Eglutė“",
+      "adresas": "A. ir J. Gravrogkų g. 11, LT-51451, Kaunas",
+      "vadovas": "Loreta Biskienė",
+      "telefonas": "(37) 351496",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzeliseglute@hotmail.com",
+      "svetaine": "www.eglute.kaunas.lm.lt",
+      "kodas": "291637350",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "60",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Gandriukas“",
+      "adresas": "Ukmergės g. 19, LT-49318, Kaunas",
+      "vadovas": "Laura Jakštienė",
+      "telefonas": "(37) 386599",
+      "faksas": "",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ldg@gandriukas.kaunas.lm.lt",
+      "svetaine": "www.gandriukas.kaunas.lm.lt",
+      "kodas": "191634392",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Giliukas“",
+      "adresas": "Apuolės g. 29, LT-48305 Kaunas",
+      "vadovas": "direktorė Jūratė Stakeliūnienė",
+      "telefonas": "8 (37) 755022",
+      "faksas": "",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "giliuk@giliukas.kaunas.lm.lt",
+      "svetaine": "www.giliukas.kaunas.lm.lt",
+      "kodas": "191639172",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Valdorfo pedagogika"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "66",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Kodėlčiukas“",
+      "adresas": "S. Raštikio g. 21, LT-50135, Kaunas",
+      "vadovas": "Rasa Kazimiera Tamulaitienė",
+      "telefonas": "(37) 314073",
+      "faksas": "",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "buhalterija@kodelciukas.com",
+      "svetaine": "www.kodelciukas.kaunas.lm.lt",
+      "kodas": "191641967",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "106",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žiedelis“",
+      "adresas": "M. Jankaus g. 40a, LT-50274, Kaunas",
+      "vadovas": "Violeta Valaitienė",
+      "telefonas": "(37) 732585",
+      "faksas": "732585",
+      "seniunija": "Žaliakalnio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "lops_darz_ziedelis@yahoo.com",
+      "svetaine": "",
+      "kodas": "191639749",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "det": {
+      "pavadinimas": "Kauno Aleksoto lopšelis-darželis",
+      "adresas": "Antanavos g. 17, LT-46274, Kaunas",
+      "vadovas": "Milda Ona Brilinkevičienė",
+      "telefonas": "(37) 391593",
+      "faksas": "(37) 391593",
+      "seniunija": "Aleksoto seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelis@aleksotas.kaunas.lm.lt",
+      "svetaine": "www.aleksotas.kaunas.lm.lt ",
+      "kodas": "191633714",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "M. Montessori pedagoginė sistema",
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "126",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Vaidilutė“",
+      "adresas": "Draugystės g. 5c, LT-51278, Kaunas",
+      "vadovas": "Solveiga Venzbergienė",
+      "telefonas": "(37) 456022",
+      "faksas": "",
+      "seniunija": "Dainavos seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "vaidilute@takas.lt",
+      "svetaine": "www.vaidilute.kaunas.lm.lt",
+      "kodas": "191636596",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "108",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Žingsnelis“",
+      "adresas": "Rasytės g. 9, Kaunas, LT-48131",
+      "vadovas": "Natalja Smolnikova",
+      "telefonas": "(37) 460165, 460166,460164",
+      "faksas": "(37) 460165",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelis@zingsnelis.kaunas.lm.lt",
+      "svetaine": "www.zingsnelis.kaunas.lm.lt",
+      "kodas": "191643637",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "72",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Malūnėlis“",
+      "adresas": "Kovo 11-osios g. 48, LT-51325, Kaunas",
+      "vadovas": "Laima Krajašienė",
+      "telefonas": "(37) 351246",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "malunelis@hotmail.com",
+      "svetaine": "",
+      "kodas": "191638266",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": []
+    }
+  },
+  {
+    "id": "95",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Tukas“",
+      "adresas": "Pakraščio g. 7a, LT-49390, Kaunas",
+      "vadovas": "Loreta Slavinskienė",
+      "telefonas": "(37) 311983",
+      "faksas": "",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "tukasdm@tukas.kaunas.lm.lt",
+      "svetaine": "www.tukas.kaunas.lm.lt",
+      "kodas": "191643441",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis \"Ežiukas\"",
+      "adresas": "A. Mapu g. 12, LT-44284, Kaunas ",
+      "vadovas": "Irma Žilinskienė",
+      "telefonas": "(37) 423 443, (37) 424 625",
+      "faksas": "",
+      "seniunija": "Centro seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "eziukas4@gmail.com",
+      "svetaine": "",
+      "kodas": "191828810",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Metodika \"Gera pradžia\""
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Čiauškutis“",
+      "adresas": "Prancūzų g. 68a, LT-44471, Kaunas",
+      "vadovas": "Ingrida Ramanauskaitė",
+      "telefonas": "(37) 348039",
+      "faksas": "(37) 348039",
+      "seniunija": "Šančių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "ciauskutis.darzelis@gmail.com",
+      "svetaine": "www.lopselisdarzelis.lt",
+      "kodas": "191635722",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "67",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Kregždutė“",
+      "adresas": "P. Plechavičiaus g. 21, LT-49260, Kaunas",
+      "vadovas": "Genovaitė Gradauskienė",
+      "telefonas": "(37) 312450",
+      "faksas": "",
+      "seniunija": "Eigulių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "kregzdute95@zebra.lt",
+      "svetaine": "",
+      "kodas": "191640146",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "119",
+    "det": {
+      "pavadinimas": "Kauno Valdorfo darželis „Šaltinėlis“",
+      "adresas": "K. Baršausko g. 84, LT-51441, Kaunas",
+      "vadovas": "Audra Liaudanskienė",
+      "telefonas": "(37) 451426",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "saltinelisvd@gmail.com",
+      "svetaine": "www.saltinelis-vd.lt",
+      "kodas": "191641814",
+      "amziai": [
+        "lopšelio",
+        "darželio"
+      ],
+      "metodikos": [
+        "Valdorfo pedagogika"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "75",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Obelėlė“",
+      "adresas": "K. Baršausko g. 76, LT-51439, Kaunas",
+      "vadovas": "Vanda Kepežinskienė",
+      "telefonas": "(37) 451427",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darz.obelele@takas.lt",
+      "svetaine": "http://www.obelele.kaunas.lm.lt",
+      "kodas": "191641771",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "94",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Šilinukas“",
+      "adresas": "Pašilės g. 34, LT-51358, Kaunas",
+      "vadovas": "Vytautė Senkovienė",
+      "telefonas": "(37) 353132",
+      "faksas": "",
+      "seniunija": "Gričiupio seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "darzelissilinukas@zebra.lt",
+      "svetaine": "www.silinukas.lt",
+      "kodas": "195093831",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  },
+  {
+    "id": "62",
+    "det": {
+      "pavadinimas": "Kauno lopšelis-darželis „Gintarėlis“",
+      "adresas": "Baltijos g. 28, LT-48252, Kaunas",
+      "vadovas": "Vilma Skrebytė",
+      "telefonas": "(37) 377570",
+      "faksas": "",
+      "seniunija": "Šilainių seniūnija",
+      "tipas": "lopšelis-darželis",
+      "elpastas": "gintarelis@gmail.com",
+      "svetaine": "",
+      "kodas": "191641052",
+      "amziai": [
+        "lopšelio",
+        "darželio",
+        "priešmokyklinė"
+      ],
+      "metodikos": [
+        "Tradicinis ugdymas",
+        "Valdorfo pedagogika",
+        "M. Montessori pedagoginė sistema"
+      ],
+      "specialistai": [
+        "muzikos pedagogas",
+        "logopedas"
+      ]
+    }
+  }
+]

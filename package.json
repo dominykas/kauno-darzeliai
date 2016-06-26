@@ -1,5 +1,6 @@
 {
   "name": "kauno-darzeliai",
+  "private": true,
   "version": "1.0.0",
   "description": "http://www.kaunas.lt/svietimas/darzeliai in open format",
   "main": "index.js",
@@ -17,7 +18,7 @@
   },
   "homepage": "https://github.com/dominykas/kauno-darzeliai#readme",
   "dependencies": {
-    "promisify-es6": "1.x",
-    "request": "2.x"
+    "denodeify": "1.x",
+    "jsdom": "9.x"
   }
 }
