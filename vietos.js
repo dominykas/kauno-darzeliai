@@ -13,7 +13,7 @@ require('fs').writeFileSync('./out/vietos.csv',
 	_(data).map((x) => [
 		x.det.pavadinimas,
 		x.det.seniunija,
-		x.det.adresas.trim(),
+		encodeURIComponent(x.det.adresas.trim()),
 		_(x.grp['2015']).filter(g => g.amzius === 'priešmokyklinė').sumBy('vietos'),
 		_(x.grp['2016']).filter(g => g.amzius === 'priešmokyklinė').sumBy('vietos'),
 		_.filter(x.eil, eilFilter).length
