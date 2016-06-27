@@ -12054,6 +12054,15 @@
       {
         "reg": "2016-04-26 00:00",
         "prio": "-",
+        "gim": "2015-11-11",
+        "mm": "2017-2018",
+        "start": "2017-09-01",
+        "metodika": "Tradicinis ugdymas",
+        "statusas": "Laukiantis eilėje"
+      },
+      {
+        "reg": "2016-04-26 00:00",
+        "prio": "-",
         "gim": "2016-02-01",
         "mm": "2018-2019",
         "start": "2018-09-01",
@@ -12066,15 +12075,6 @@
         "gim": "2016-02-18",
         "mm": "2017-2018",
         "start": "2018-02-01",
-        "metodika": "Tradicinis ugdymas",
-        "statusas": "Laukiantis eilėje"
-      },
-      {
-        "reg": "2016-04-26 00:00",
-        "prio": "-",
-        "gim": "2015-11-11",
-        "mm": "2017-2018",
-        "start": "2017-09-01",
         "metodika": "Tradicinis ugdymas",
         "statusas": "Laukiantis eilėje"
       },
@@ -37048,6 +37048,15 @@
       {
         "reg": "2016-04-25 00:00",
         "prio": "-",
+        "gim": "2015-01-09",
+        "mm": "2017-2018",
+        "start": "2017-09-01",
+        "metodika": "Tradicinis ugdymas",
+        "statusas": "Laukiantis eilėje"
+      },
+      {
+        "reg": "2016-04-25 00:00",
+        "prio": "-",
         "gim": "2015-08-20",
         "mm": "2017-2018",
         "start": "2017-09-01",
@@ -37061,15 +37070,6 @@
         "mm": "2017-2018",
         "start": "2017-09-01",
         "metodika": "Metodika \"Gera pradžia\"",
-        "statusas": "Laukiantis eilėje"
-      },
-      {
-        "reg": "2016-04-25 00:00",
-        "prio": "-",
-        "gim": "2015-01-09",
-        "mm": "2017-2018",
-        "start": "2017-09-01",
-        "metodika": "Tradicinis ugdymas",
         "statusas": "Laukiantis eilėje"
       },
       {
