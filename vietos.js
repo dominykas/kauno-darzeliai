@@ -10,6 +10,7 @@ var eilFilter = (e) => {
 require('fs').writeFileSync('./out/vietos.csv',
 	_(data).map((x) => [
 		x.det.pavadinimas,
+		x.det.telefonas,
 		x.det.seniunija,
 		encodeURIComponent(x.det.adresas.trim()),
 		_(x.grp['2016']).filter(g => g.amzius === 'priešmokyklinė').sumBy('vietos'),
